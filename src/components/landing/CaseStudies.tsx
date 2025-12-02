@@ -1,7 +1,6 @@
 import { motion } from "framer-motion";
 import { Quote, Zap, Star, Sparkles } from "lucide-react";
 import case1 from "@assets/generated_images/modern_tech_startup_collaborative_workspace.png";
-import case2 from "@assets/generated_images/tech_team_collaboration_photo.png";
 import case3 from "@assets/generated_images/premium_remote_developer_workspace_setup.png";
 
 export default function CaseStudies() {
